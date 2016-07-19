@@ -1,0 +1,13 @@
+.productA__componentB {
+    width: 150px;
+    height: 150px;
+    background-color: #f00;
+}
+
+.productA__componentB--rounded {
+    border-radius: 20px;
+}
+
+.productA__componentB--circle {
+    border-radius: 75px;
+}

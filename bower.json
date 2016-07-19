@@ -1,0 +1,20 @@
+{
+  "name": "productA",
+  "description": "This is for an example of creating a new workflow for developing products in frontend",
+  "main": "",
+  "authors": [
+    "Michael Tran"
+  ],
+  "license": "MIT",
+  "homepage": "classicmike.github.io",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "frameworkA": "classicmike-frameworkA#*"
+  }
+}
